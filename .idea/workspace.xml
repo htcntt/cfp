@@ -26,9 +26,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="275">
+              <caret line="469" column="10" lean-forward="false" selection-start-line="469" selection-start-column="10" selection-end-line="469" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +52,7 @@
       <find>supporters</find>
       <find>spons</find>
       <find>suppo</find>
+      <find>location</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -300,9 +303,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="57" column="32" lean-forward="false" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="275">
+          <caret line="469" column="10" lean-forward="false" selection-start-line="469" selection-start-column="10" selection-end-line="469" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
