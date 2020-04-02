@@ -867,6 +867,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #schedule .sub-heading {
   text-align: center;
   font-size: 18px;
+    font-family: "Open Sans", sans-serif;
   font-style: italic;
   margin: 0 auto 30px auto;
 }
