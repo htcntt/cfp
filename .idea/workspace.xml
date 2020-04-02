@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c1b485d-d8c4-4358-8a2b-4992841a48aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="6c1b485d-d8c4-4358-8a2b-4992841a48aa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="312" column="49" lean-forward="false" selection-start-line="312" selection-start-column="49" selection-end-line="312" selection-end-column="49" />
+            <state relative-caret-position="230">
+              <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#38886#38893#1" expanded="true" />
@@ -52,7 +50,6 @@
       <find>speaker</find>
       <find>venue</find>
       <find>Sponso</find>
-      <find>địa điểm</find>
       <find>gallery</find>
       <find>call for</find>
       <find>gửi bài viết</find>
@@ -60,6 +57,7 @@
       <find>nơi công tác</find>
       <find>9:</find>
       <find>13</find>
+      <find>địa điểm</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -380,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="312" column="49" lean-forward="false" selection-start-line="312" selection-start-column="49" selection-end-line="312" selection-end-column="49" />
+        <state relative-caret-position="230">
+          <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#38886#38893#1" expanded="true" />
