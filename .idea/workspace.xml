@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1b485d-d8c4-4358-8a2b-4992841a48aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="763" column="142" lean-forward="false" selection-start-line="763" selection-start-column="142" selection-end-line="763" selection-end-column="142" />
+            <state relative-caret-position="171">
+              <caret line="836" column="65" lean-forward="false" selection-start-line="836" selection-start-column="65" selection-end-line="836" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -28,8 +28,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>location</find>
-      <find>STANDARD ACCESS</find>
       <find>Rerum numquam</find>
       <find>Thứ hai</find>
       <find>đăng ký</find>
@@ -58,6 +56,8 @@
       <find>card-body</find>
       <find>h6</find>
       <find>quy cách nộp bài</find>
+      <find>liên lạc</find>
+      <find>MS Tuy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -358,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="763" column="142" lean-forward="false" selection-start-line="763" selection-start-column="142" selection-end-line="763" selection-end-column="142" />
+        <state relative-caret-position="171">
+          <caret line="836" column="65" lean-forward="false" selection-start-line="836" selection-start-column="65" selection-end-line="836" selection-end-column="65" />
           <folding />
         </state>
       </provider>
