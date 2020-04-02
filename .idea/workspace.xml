@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c1b485d-d8c4-4358-8a2b-4992841a48aa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/img/neu.jpg" afterPath="$PROJECT_DIR$/assets/img/neu.jpg" />
-      <change beforePath="$PROJECT_DIR$/assets/img/venue-gallery/1.jpg" afterPath="$PROJECT_DIR$/assets/img/venue-gallery/1.jpg" />
-      <change beforePath="$PROJECT_DIR$/changelog.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/forms/Readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/forms/contact.php" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/speaker-details.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +16,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="690" column="14" lean-forward="false" selection-start-line="690" selection-start-column="14" selection-end-line="690" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#38882#38889#1" expanded="true" />
+                <element signature="e#38884#38891#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -39,7 +30,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>The</find>
       <find>The Eve</find>
       <find>buy</find>
       <find>email</find>
@@ -69,6 +59,7 @@
       <find>gửi bài viết</find>
       <find>gửi bài</find>
       <find>nơi công tác</find>
+      <find>9:</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -302,7 +293,7 @@
           <caret line="954" column="38" lean-forward="false" selection-start-line="954" selection-start-column="38" selection-end-line="954" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38882#38889#1" expanded="true" />
+            <element signature="e#38884#38891#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -321,7 +312,7 @@
           <caret line="880" column="8" lean-forward="false" selection-start-line="880" selection-start-column="8" selection-end-line="907" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38882#38889#1" expanded="true" />
+            <element signature="e#38884#38891#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,7 +339,7 @@
           <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38882#38889#1" expanded="true" />
+            <element signature="e#38884#38891#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -389,11 +380,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="690" column="14" lean-forward="false" selection-start-line="690" selection-start-column="14" selection-end-line="690" selection-end-column="14" />
+        <state relative-caret-position="152">
+          <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#1;n#div#0;n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#38882#38889#1" expanded="true" />
+            <element signature="e#38884#38891#1" expanded="true" />
           </folding>
         </state>
       </provider>
