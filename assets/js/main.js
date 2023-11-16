@@ -177,40 +177,43 @@
         hour = minute * 60,
         day = hour * 24;
 
-  //I'm adding this section so I don't have to keep updating this pen every year :-)
-  //remove this if you don't need it
+  // I'm adding this section so I don't have to keep updating this pen every year :-)
+  // remove this if you don't need it
   let today = new Date(),
       dd = String(today.getDate()).padStart(2, "0"),
       mm = String(today.getMonth() + 1).padStart(2, "0"),
       yyyy = today.getFullYear(),
       nextYear = yyyy + 1,
-      dayMonth = "11/28/",
-      birthday = dayMonth + yyyy;
+      dayMonth = "11/16/",
+      conference_date = dayMonth + yyyy;
 
   today = mm + "/" + dd + "/" + yyyy;
-  if (today > birthday) {
-    birthday = dayMonth + nextYear;
+  if (today > conference_date) {
+    conference_date = dayMonth + nextYear;
   }
-  //end
+  // end
 
-  const countDown = new Date(birthday).getTime(),
-      x = setInterval(function() {
+  // Set the target time to 8:00 AM
+  const targetTime = new Date(conference_date);
+  targetTime.setHours(8, 0, 0, 0);
 
-        const now = new Date().getTime(),
+  const countDown = targetTime.getTime(),
+      x = setInterval(function () {
+        const now = new Date().getTime() + hour * 7, // Adjusted for GMT+7 (Vietnam time zone)
               distance = countDown - now;
 
-        document.getElementById("days").innerText = Math.floor(distance / (day)),
-          document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
-          document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
-          document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+        document.getElementById("days").innerText = Math.floor(distance / day),
+          document.getElementById("hours").innerText = Math.floor((distance % day) / hour),
+          document.getElementById("minutes").innerText = Math.floor((distance % hour) / minute),
+          document.getElementById("seconds").innerText = Math.floor((distance % minute) / second);
 
-        //do something later when date is reached
+        // do something later when date is reached
         if (distance < 0) {
           document.getElementById("cound_down_headline").innerText = "";
           document.getElementById("countdown").style.display = "none";
           document.getElementById("cound_down_content").style.display = "block";
           clearInterval(x);
         }
-        //seconds
-      }, 0)
-  }());
+        // seconds
+      }, 0);
+})();
