@@ -1677,15 +1677,15 @@ li.cound_down {
   display: inline-block;
   font-size: 1em;
   list-style-type: none;
-  padding: 1em;
+  padding: 0.5em;
   %text-transform: uppercase;
 }
 
 li.cound_down span {
   display: block;
   font-size: 4.5rem;
-    display: inline-block;
-    text-align: center;
+  display: inline-block;
+  text-align: center;
 }
 
 .emoji {
