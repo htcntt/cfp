@@ -1659,6 +1659,7 @@ font-family: 'Arial Narrow', Arial, sans-serif;
   color: #ffc107;
   margin: 0 auto;
   text-align: center;
+  padding-bottom: 2em;
 }
 
 #cound_down_headline {
