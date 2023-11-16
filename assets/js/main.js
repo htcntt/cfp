@@ -176,25 +176,8 @@
         minute = second * 60,
         hour = minute * 60,
         day = hour * 24;
-
-  // I'm adding this section so I don't have to keep updating this pen every year :-)
-  // remove this if you don't need it
-  let today = new Date(),
-      dd = String(today.getDate()).padStart(2, "0"),
-      mm = String(today.getMonth() + 1).padStart(2, "0"),
-      yyyy = today.getFullYear(),
-      nextYear = yyyy + 1,
-      dayMonth = "11/28/",
-      conference_date = dayMonth + yyyy;
-
-  today = mm + "/" + dd + "/" + yyyy;
-  if (today > conference_date) {
-    conference_date = dayMonth + nextYear;
-  }
-  // end
-
-  // Set the target time to 8:00 AM
-  const targetTime = new Date(conference_date);
+  // Set the target time to 8:00 AM 11/28/2023
+  const targetTime = new Date("11/28/2023");
   targetTime.setHours(8, 0, 0, 0);
 
   const countDown = targetTime.getTime(),
@@ -209,7 +192,6 @@
 
         // do something later when date is reached
         if (distance < 0) {
-          document.getElementById("cound_down_headline").innerText = "";
           document.getElementById("countdown").style.display = "none";
           document.getElementById("cound_down_content").style.display = "block";
           clearInterval(x);
