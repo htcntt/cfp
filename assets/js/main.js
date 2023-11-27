@@ -182,7 +182,7 @@
 
   const countDown = targetTime.getTime(),
       x = setInterval(function () {
-        const now = new Date().getTime() + hour * 7, // Adjusted for GMT+7 (Vietnam time zone)
+        const now = new Date().getTime() + hour * 6, // Adjusted for GMT+7 (Vietnam time zone)
               distance = countDown - now;
 
         document.getElementById("days").innerText = Math.floor(distance / day),
